@@ -21,6 +21,7 @@ specifiers:
   '@tarojs/shared': 3.5.4
   '@tarojs/taro': 3.5.4
   '@tarojs/taro-h5': 3.5.4
+  '@tarojs/taro-loader': ^3.5.4
   '@tarojs/webpack5-runner': 3.5.4
   '@types/react': ^18.0.0
   '@types/webpack-env': ^1.13.6
@@ -64,6 +65,7 @@ devDependencies:
   '@babel/core': registry.npmmirror.com/@babel/core/7.18.13
   '@pmmmwh/react-refresh-webpack-plugin': registry.npmmirror.com/@pmmmwh/react-refresh-webpack-plugin/0.5.7_uusriqs5flz55rfdoscscc6fjy
   '@tarojs/cli': registry.npmmirror.com/@tarojs/cli/3.5.4_@types+react@18.0.17
+  '@tarojs/taro-loader': registry.npmmirror.com/@tarojs/taro-loader/3.5.4_@types+react@18.0.17
   '@tarojs/webpack5-runner': registry.npmmirror.com/@tarojs/webpack5-runner/3.5.4_n5mdoobyd5wj6nailemq6p2iu4
   '@types/react': registry.npmmirror.com/@types/react/18.0.17
   '@types/webpack-env': registry.npmmirror.com/@types/webpack-env/1.18.0
@@ -10709,7 +10711,7 @@ packages:
       decamelize: registry.npmmirror.com/decamelize/1.2.0
       loud-rejection: registry.npmmirror.com/loud-rejection/1.6.0
       map-obj: registry.npmmirror.com/map-obj/1.0.1
-      minimist: registry.npmmirror.com/minimist/1.2.5
+      minimist: registry.npmmirror.com/minimist/1.2.6
       normalize-package-data: registry.npmmirror.com/normalize-package-data/2.5.0
       object-assign: registry.npmmirror.com/object-assign/4.1.1
       read-pkg-up: registry.npmmirror.com/read-pkg-up/1.0.1
@@ -12942,7 +12944,7 @@ packages:
     dependencies:
       deep-extend: registry.npmmirror.com/deep-extend/0.6.0
       ini: registry.npmmirror.com/ini/1.3.8
-      minimist: registry.npmmirror.com/minimist/1.2.5
+      minimist: registry.npmmirror.com/minimist/1.2.6
       strip-json-comments: registry.npmmirror.com/strip-json-comments/2.0.1
     dev: true
 
